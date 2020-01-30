@@ -13,7 +13,7 @@ public class App  extends Application {
 //Se crea un socket que apunta a la ruta que se muestra
     try {
       //se cambia por nuestra ruta
-      mSocket = IO.socket("http://tparkourupt.eu-4.evennode.com/");
+      mSocket = IO.socket("http://parkourupt.eu-4.evennode.com/");
     }
     catch (Exception e){
     }
